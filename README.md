@@ -1,4 +1,4 @@
-# 👋 Hola, soy Mery Paola Arias Molina
+# 👋 Hola, soy Paola Arias Molina
 
 ### 📍 Heredia, Costa Rica
 [LinkedIn](https://linkedin.com/in/mery-arias-712668213) | 📧 mery.p96@yahoo.com | 📱 (+506) 7060-5690
