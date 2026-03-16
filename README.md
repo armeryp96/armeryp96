@@ -1,11 +1,7 @@
 # 👋 Hola, soy Mery Paola Arias Molina
 
 ### 📍 Heredia, Costa Rica
-<<<<<<< Updated upstream
-[LinkedIn](https://linkedin.com/in/mery-arias-712668213) | 📧 [mery.p96@yahoo.com](mailto:mery.p96@yahoo.com) | 📱 (+506) 7060-5690 [1]
-=======
 [LinkedIn](https://linkedin.com/in/mery-arias-712668213) | 📧 mery.p96@yahoo.com | 📱 (+506) 7060-5690
->>>>>>> Stashed changes
 
 ---
 
@@ -17,15 +13,6 @@ Cuento con formación técnica en sistemas y ciberseguridad, además de habilida
 
 ---
 
-<<<<<<< Updated upstream
-## 🛠️ Habilidades Técnicas
-
-- **Sistemas y Redes:** Active Directory, DHCP, DNS, Windows 7/10, Linux básico [3].
-- **Herramientas ITSM:** ServiceNow, ticketing systems [3].
-- **Bases de Datos:** SQL básico [3].
-- **Ofimática:** Microsoft 365 (Excel, Word, Outlook, PowerPoint) [3].
-- **Certificaciones:** Carné de manipulación de alimentos al día (INA 2025) [1, 3].
-=======
 ## 🌟 Habilidades Blandas
 
 - Comunicación efectiva (oral y escrita)
@@ -34,33 +21,11 @@ Cuento con formación técnica en sistemas y ciberseguridad, además de habilida
 - Mentoría y orientación al cliente
 - Trabajo en equipo
 - Adaptabilidad y aprendizaje continuo
->>>>>>> Stashed changes
 
 ---
 
 ## 💼 Experiencia Profesional
 
-<<<<<<< Updated upstream
-#### **Amazon – Seller Support Agent**
-*Ene 2022 – Actualidad* [2]
-
-#### **Fujitsu – IT Service Desk Agent**
-*Ago 2021 – Oct 2022* [2]
-
-#### **Amazon – Customer Service (DART Team)**
-*Oct 2019 – Ago 2021* [2]
-
-#### **Hotel Bosque del Mar – Recepcionista**
-*Oct 2018 – Jul 2019* [2]
-- Gestión de procesos de check-in/check-out y administración de reservas [2].
-- Cobro de facturas y atención directa al cliente [2].
-- Promoción y venta de servicios adicionales y tours [2].
-
-#### **IBM – IT Service Desk Agent**
-*Ago 2017 – Jul 2018* [2]
-- Resolución de incidencias técnicas en AD, O365, VPN y periféricos [2].
-- Soporte remoto multicanal (teléfono, correo y chat) mediante ServiceNow [3].
-=======
 ### Amazon – Seller Support Agent
 *Ene 2022 – Actualidad*
 
@@ -108,7 +73,6 @@ Cuento con formación técnica en sistemas y ciberseguridad, además de habilida
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0072F2?style=flat&logo=servicenow)
 ![Microsoft_365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server)
->>>>>>> Stashed changes
 
 ---
 
@@ -121,18 +85,6 @@ Cuento con formación técnica en sistemas y ciberseguridad, además de habilida
 ---
 
 ## 🗣️ Idiomas
-<<<<<<< Updated upstream
-- **Inglés:** Nivel C1 [4].
-- **Español:** Nativo [4].
-
----
-
-## 🌟 Competencias
-- Comunicación efectiva (oral y escrita) [4].
-- Resolución de problemas y análisis crítico [4].
-- Gestión del tiempo y capacidad multitarea [4].
-- Mentoría y orientación al cliente [4].
-=======
 
 - **Inglés** Nivel C1
 - **Español** Nativo
@@ -176,4 +128,3 @@ Diseño y verificación de una red corporativa robusta utilizando equipos Cisco.
 
 ## 📫 **¿Cómo contactarme?**
 mery.p96@yahoo.com | [LinkedIn](https://linkedin.com/in/mery-arias-712668213)
->>>>>>> Stashed changes
