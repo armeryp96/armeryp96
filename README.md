@@ -13,6 +13,30 @@ Cuento con formación técnica en sistemas y ciberseguridad, además de habilida
 
 ---
 
+## 🛠️ Habilidades Técnicas
+
+**Infraestructura y Sistemas**
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows-server)
+![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=flat&logo=windows-server)
+![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat&logo=google-domains)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D4?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/Windows_7/10-0078D4?style=flat&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu)
+
+**Ciberseguridad y Blue Team**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?style=flat&logo=metasploit)
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat&logo=nmap)
+![Nessus](https://img.shields.io/badge/Nessus-00C2E4?style=flat)
+
+**Herramientas y Gestión**
+![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-orange?style=flat&logo=cisco)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0072F2?style=flat&logo=servicenow)
+![Microsoft_365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server)
+
+---
+
 ## 🌟 Habilidades Blandas
 
 - Comunicación efectiva (oral y escrita)
@@ -49,30 +73,6 @@ Cuento con formación técnica en sistemas y ciberseguridad, además de habilida
 *Ago 2017 – Jul 2018*
 - Resolución de incidencias técnicas en AD, O365, VPN y periféricos
 - Soporte remoto multicanal (teléfono, correo y chat) mediante ServiceNow
-
----
-
-## 🛠️ Habilidades Técnicas
-
-**Infraestructura y Sistemas**
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows-server)
-![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=flat&logo=windows-server)
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat&logo=google-domains)
-![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D4?style=flat&logo=windows)
-![Windows](https://img.shields.io/badge/Windows_7/10-0078D4?style=flat&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu)
-
-**Ciberseguridad y Blue Team**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-CC0000?style=flat&logo=metasploit)
-![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=flat&logo=nmap)
-![Nessus](https://img.shields.io/badge/Nessus-00C2E4?style=flat)
-
-**Herramientas y Gestión**
-![Cisco](https://img.shields.io/badge/Cisco-Packet_Tracer-orange?style=flat&logo=cisco)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-0072F2?style=flat&logo=servicenow)
-![Microsoft_365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft-office)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server)
 
 ---
 
